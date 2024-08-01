@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RecallWeb/static/css/main.eca9de75.css",
+    "main.js": "/RecallWeb/static/js/main.c9ad1463.js",
+    "static/js/787.abdd7af2.chunk.js": "/RecallWeb/static/js/787.abdd7af2.chunk.js",
+    "index.html": "/RecallWeb/index.html",
+    "main.eca9de75.css.map": "/RecallWeb/static/css/main.eca9de75.css.map",
+    "main.c9ad1463.js.map": "/RecallWeb/static/js/main.c9ad1463.js.map",
+    "787.abdd7af2.chunk.js.map": "/RecallWeb/static/js/787.abdd7af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca9de75.css",
+    "static/js/main.c9ad1463.js"
+  ]
+}
